@@ -2,11 +2,13 @@
 import time 
 import sys 
 from colorama import Fore 
-sword_mace_ascii_art=f'''
-                        ________  
-                       / /    \\ \\
-                      / / ____ \\ \\
-                     / / /    \ \\ \\
+sword_mace_ascii_art=f''' 
+                           /\   
+                         /_/\_\ 
+                        / /  \ \ 
+                       / /    \ \ 
+                      / / ____ \ \ 
+                     / / /    \ \ \ 
                      | | |_   | | |
                      | | | |  | | |
                      | | | |  | | |
